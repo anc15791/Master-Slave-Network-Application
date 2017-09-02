@@ -1,4 +1,8 @@
 
+Master Slave Network Application
+
+The user can run several slaves on host machines. The master program provides the interface to the user to give commands. Both master and slave run their respective servers for communication. The project is created as part of the coursework from Computer Network Design. 
+
 Master (MasterBot.java) will take the following command line argument:
 -p PortNumber
 
